@@ -1,6 +1,6 @@
 # Weather App (Full Stack: Tech Assessments #1 and #2)
 
-**Author:Azhar Aziz** YOUR NAME
+**Author:Azhar Aziz** 
 
 ## What it does
 **Frontend (React + Vite)**
